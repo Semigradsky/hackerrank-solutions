@@ -9,7 +9,7 @@
 ---
 ### Algorithms
 The true test of problem solving: when one realizes that time and memory aren't infinite.
-  - Warmup
+  - [Warmup](Algorithms/Warmup)
   - Arrays and Sorting
   - Dynamic Programming
   - Graph Theory
