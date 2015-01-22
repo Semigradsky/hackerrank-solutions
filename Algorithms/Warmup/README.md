@@ -2,8 +2,8 @@
 |---|:---:|:---:|
 | Solve me first | 1 | Easy
 | Solve me second
-| [Flipping bits](Flipping-bits) | 20
-| Utopian Tree
+| [Flipping bits](Flipping bits) | 20
+| [Utopian Tree](Utopian Tree)
 | Maximizing XOR
 | Alternating Characters
 | The Love-Letter Mystery
