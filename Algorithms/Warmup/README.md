@@ -4,7 +4,7 @@
 | Solve me second
 | [Flipping bits](Flipping bits) | 20
 | [Utopian Tree](Utopian Tree)
-| Maximizing XOR
+| [Maximizing XOR](Maximizing XOR)
 | Alternating Characters
 | The Love-Letter Mystery
 | Angry Children | | Moderate
