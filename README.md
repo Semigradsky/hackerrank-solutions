@@ -1,4 +1,4 @@
-## HackerRank solutions
+## [HackerRank](https://www.hackerrank.com) solutions
 
 - [Algorithms](#algorithms)
 - [Artificial Intelligence](#artificial-intelligence)
