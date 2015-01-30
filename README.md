@@ -7,7 +7,7 @@
 - [Miscellaneous](#miscellaneous)
 
 ---
-### Algorithms
+### [Algorithms](Algorithms)
 The true test of problem solving: when one realizes that time and memory aren't infinite.
   - [Warmup](Algorithms/Warmup)
   - Arrays and Sorting

@@ -2,13 +2,14 @@
 |---|:---:|:---:|
 | Solve me first | 1 | Easy
 | Solve me second
-| [Flipping bits](Flipping bits) | 20
+| [Lonely Integer](Lonely Integer) | 20
+| [Flipping bits](Flipping bits)
 | [Utopian Tree](Utopian Tree)
 | [Maximizing XOR](Maximizing XOR)
-| Alternating Characters
-| The Love-Letter Mystery
+| [Alternating Characters](Alternating Characters)
+| [The Love-Letter Mystery](The Love-Letter Mystery)
 | Angry Children | | Moderate
-| Game of Thrones - I | | Easy
+| [Game of Thrones - I](Game of Thrones - I) | | Easy
 | ACM ICPC Team
 | Filling Jars
 | Chocolate Feast
@@ -18,4 +19,4 @@
 | Sherlock and GCD
 | Sherlock and The Beast
 | Find Digits
-| Is Fibo | | Moderate
+| [Is Fibo](Is Fibo) | | Moderate
