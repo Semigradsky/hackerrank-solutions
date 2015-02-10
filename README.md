@@ -21,7 +21,7 @@ The true test of problem solving: when one realizes that time and memory aren't 
   - Summations and Algebra
   - Implementation
   - Search
-  - Strings
+  - [Strings](Algorithms/Strings)
   - Data Structures
   - Greedy
   - Number Theory
